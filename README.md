@@ -1,6 +1,6 @@
 # Data Mining
 
-The projects implemented in this repository are in line with the module "Data Mining" of QMUL.
+The projects implemented in this repository are in line with the module "Data Mining" of Queen Mary University of London.
 
 Following topics have been covered:
 
