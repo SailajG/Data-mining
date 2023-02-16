@@ -1,5 +1,7 @@
 # Data Mining
 
+The projects implemented in this repository are in line with the module "Data Mining" of QMUL.
+
 Following topics have been covered:
 
 - Data Preprocessing
